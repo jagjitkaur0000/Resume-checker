@@ -20,12 +20,6 @@ Compatible with Windows 11 (tested on HP laptop)
 
 **Installation**
 
-Clone this repository:
-
-git clone https://github.com/yourusername/AI-Resume-Screener.git
-cd AI-Resume-Screener
-
-
 **Install required libraries:**
 
 pip install spacy python-docx
